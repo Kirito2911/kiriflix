@@ -1,0 +1,172 @@
+{
+  "categorias": [
+    {
+      "titulo": "League Of Legends",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "2019 World Championship Moments & Memories",
+          "url": "https://www.youtube.com/watch?v=aBLyMT8b_0o"
+        },
+        {
+          "titulo": "2018 League of Legends World Championship Moments and Memories",
+          "url": "https://www.youtube.com/watch?v=F0me_UsoAqI&t=4s"
+        },
+        {
+          "titulo": "2017 World Championship Moments and Memories",
+          "url": "https://www.youtube.com/watch?v=7uYoQ2i16nY"
+        },
+        {
+          "titulo": "2016 World Championship Moments and Memories",
+          "url": "https://www.youtube.com/watch?v=PyDZYLYWcNg"
+        },
+        {
+          "titulo": "FLECHA ENCANTADA SENSACIONAL DO PRAY!",
+          "url": "https://www.youtube.com/watch?v=4ThoJrhEZHE"
+        },
+        {
+          "titulo": "DEUSES DA SOLO QUEUE BRASILEIRA! - EPISÓDIO 1",
+          "url": "https://www.youtube.com/watch?v=kiPumvhmLQg"
+        },
+        {
+          "titulo": "DEUSES DA SOLO QUEUE BRASILEIRA! - EPISÓDIO 2!!",
+          "url": "https://www.youtube.com/watch?v=EFix3Gk_rxk"
+        },
+        {
+          "titulo": "DEUSES DA SOLO QUEUE BRASILEIRA! - EPISÓDIO 3!!",
+          "url": "https://www.youtube.com/watch?v=JD35NqfUkEY"
+        }     
+      ]
+    },
+    {
+      "titulo": "Abertura de Animes",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Noragami Aragoto - Official Opening - Kyouran Hey Kids!!",
+          "url": "https://www.youtube.com/watch?v=aZenmeRytEM&list=PLjNlQ2vXx1xbt30X8TcUfNzw_akVISXEu&index=1"
+        },
+        {
+          "titulo": "Fullmetal Alchemist Brotherhood Opening 1 - Again Lyrics",
+          "url": "https://www.youtube.com/watch?v=X59yPeVk_70"
+        },
+        {
+          "titulo": "Shinzou wo Sasageyo by Linked Horizon",
+          "url": "https://www.youtube.com/watch?v=CID-sYQNCew&list=PLjNlQ2vXx1xbt30X8TcUfNzw_akVISXEu&index=15"
+        },
+        {
+          "titulo": "Demon Slayer | OP | Gurenge by LiSA HD",
+          "url": "https://www.youtube.com/watch?v=pmanD_s7G3U&list=PLjNlQ2vXx1xbt30X8TcUfNzw_akVISXEu&index=6"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
