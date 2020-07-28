@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "League Of Legends",
-      "cor": "#9cd33b",
+      "cor": "#00aec2",
       "videos": [
         {
           "titulo": "2019 World Championship Moments & Memories",
@@ -40,8 +40,12 @@
     },
     {
       "titulo": "Abertura de Animes",
-      "cor": "#00C86F",
+      "cor": "#00aec2",
       "videos": [
+        {
+          "titulo": "DARLING in the FRANXX - Opening (HD)",
+          "url": "https://www.youtube.com/watch?v=hCzkkHwR2gg"
+        },
         {
           "titulo": "Noragami Aragoto - Official Opening - Kyouran Hey Kids!!",
           "url": "https://www.youtube.com/watch?v=aZenmeRytEM&list=PLjNlQ2vXx1xbt30X8TcUfNzw_akVISXEu&index=1"
