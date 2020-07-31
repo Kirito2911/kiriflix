@@ -28,16 +28,14 @@ function CadastroCategoria(){
         const URL = window.location.href.includes('localhost')
         ? 'http://localhost:8080/categorias'
         : 'https://kiriflix.herokuapp.com/categorias'; 
-          fetch(URL)
+        fetch(URL)
            .then(async (respostaDoServer) =>{
-            if(respostaDoServer.ok) {
               const resposta = await respostaDoServer.json();
-              setCategorias(resposta);
-              return; 
-            }
-            throw new Error('Não foi possível pegar os dados');
-           })   
-      }, []);
+              setCategorias([
+                  ...resposta,
+                ]);
+             });
+            },[]);
 
     return(
         <PageDefault>
