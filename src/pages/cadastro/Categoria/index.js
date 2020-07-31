@@ -25,8 +25,9 @@ function CadastroCategoria(){
     }
 
     useEffect(() => {
-        if(window.location.href.includes('localhost')) {
-          const URL = 'http://localhost:8080/categorias'; 
+        const URL = window.location.href.includes('localhost')
+        ? 'http://localhost:8080/categorias'
+        : 'http://localhost:8080/categorias'; 
           fetch(URL)
            .then(async (respostaDoServer) =>{
             if(respostaDoServer.ok) {
@@ -35,10 +36,9 @@ function CadastroCategoria(){
               return; 
             }
             throw new Error('Não foi possível pegar os dados');
-           })
-        }    
+           })   
       }, []);
-      
+
     return(
         <PageDefault>
             <h1>
@@ -102,6 +102,12 @@ function CadastroCategoria(){
                     Cadastrar
                     </Button>
                 </form>
+                
+                {categorias.length === 0 && (
+                    <div>
+                        Loading...
+                    </div>
+                )}
 
                 <ul>
                     {categorias.map((categoria, indice)=>{
